@@ -1,0 +1,893 @@
+[
+  {
+    "id": "saffuriyya-al-saadi",
+    "village_id": "saffuriyya",
+    "name_ar": "السعدي",
+    "aliases": ["سعدي", "السعدية"],
+    "story": "تذكر موسوعة القرى الفلسطينية عائلة السعدي ضمن عائلات صفورية التي ارتبطت بالقرية قبل تهجير أهلها عام 1948.",
+    "source_name": "موسوعة القرى الفلسطينية - صفورية",
+    "source_url": "https://palqura.com/ar/article/439"
+  },
+  {
+    "id": "saffuriyya-ghanaymeh",
+    "village_id": "saffuriyya",
+    "name_ar": "غنايمة",
+    "aliases": ["الغنايمة"],
+    "story": "ترد غنايمة في موسوعة القرى الفلسطينية ضمن عائلات صفورية، وتظهر بعض العائلات الأخرى ضمن هذا الامتداد العائلي.",
+    "source_name": "موسوعة القرى الفلسطينية - صفورية",
+    "source_url": "https://palqura.com/ar/article/439"
+  },
+  {
+    "id": "saffuriyya-al-tuba",
+    "village_id": "saffuriyya",
+    "name_ar": "التوبة",
+    "aliases": ["توبة"],
+    "story": "تذكر موسوعة القرى الفلسطينية عائلة التوبة ضمن عائلات صفورية، كما ترد إشارات إلى ذاكرة القرية من خلال كتابات أبناء هذه العائلة.",
+    "source_name": "موسوعة القرى الفلسطينية - صفورية",
+    "source_url": "https://palqura.com/ar/article/439"
+  },
+  {
+    "id": "saffuriyya-al-khatib",
+    "village_id": "saffuriyya",
+    "name_ar": "الخطيب",
+    "aliases": ["خطيب"],
+    "story": "الخطيب مذكورة ضمن عائلات صفورية في موسوعة القرى الفلسطينية، لذلك تربطها البيانات المحلية بهذه القرية فقط ضمن النسخة الحالية.",
+    "source_name": "موسوعة القرى الفلسطينية - صفورية",
+    "source_url": "https://palqura.com/ar/article/439"
+  },
+  {
+    "id": "saffuriyya-ghunaim",
+    "village_id": "saffuriyya",
+    "name_ar": "غنيم",
+    "aliases": [],
+    "story": "ترد عائلة غنيم ضمن قائمة عائلات صفورية الموثقة في موسوعة القرى الفلسطينية.",
+    "source_name": "موسوعة القرى الفلسطينية - صفورية",
+    "source_url": "https://palqura.com/ar/article/439"
+  },
+  {
+    "id": "saffuriyya-suleiman",
+    "village_id": "saffuriyya",
+    "name_ar": "سليمان",
+    "aliases": ["آل سليمان"],
+    "story": "تذكر موسوعة القرى الفلسطينية عائلة سليمان ضمن العائلات التي سكنت صفورية قبل التهجير.",
+    "source_name": "موسوعة القرى الفلسطينية - صفورية",
+    "source_url": "https://palqura.com/ar/article/439"
+  },
+  {
+    "id": "saffuriyya-mawed",
+    "village_id": "saffuriyya",
+    "name_ar": "موعد",
+    "aliases": ["الموعد"],
+    "story": "ترد عائلة موعد ضمن عائلات صفورية في مصدر موسوعة القرى الفلسطينية.",
+    "source_name": "موسوعة القرى الفلسطينية - صفورية",
+    "source_url": "https://palqura.com/ar/article/439"
+  },
+  {
+    "id": "saffuriyya-abu-al-naaj",
+    "village_id": "saffuriyya",
+    "name_ar": "أبو النعاج",
+    "aliases": ["ابو النعاج"],
+    "story": "تذكر موسوعة القرى الفلسطينية دار أبو النعاج ضمن عائلات صفورية، وتشير إلى أنهم جاءوا إلى صفورية واستقروا فيها.",
+    "source_name": "موسوعة القرى الفلسطينية - صفورية",
+    "source_url": "https://palqura.com/ar/article/439"
+  },
+  {
+    "id": "saffuriyya-najm",
+    "village_id": "saffuriyya",
+    "name_ar": "نجم",
+    "aliases": ["آل نجم"],
+    "story": "تورد موسوعة القرى الفلسطينية عائلة نجم ضمن عائلات صفورية وتذكر أن تحتها فروعًا عدة.",
+    "source_name": "موسوعة القرى الفلسطينية - صفورية",
+    "source_url": "https://palqura.com/ar/article/439"
+  },
+  {
+    "id": "saffuriyya-abu-nasser",
+    "village_id": "saffuriyya",
+    "name_ar": "أبو ناصر",
+    "aliases": ["ابو ناصر"],
+    "story": "تذكر موسوعة القرى الفلسطينية عائلة أبو ناصر ضمن عائلات صفورية.",
+    "source_name": "موسوعة القرى الفلسطينية - صفورية",
+    "source_url": "https://palqura.com/ar/article/439"
+  },
+  {
+    "id": "saffuriyya-al-hadaydi",
+    "village_id": "saffuriyya",
+    "name_ar": "الحدايدي",
+    "aliases": ["حدايدي"],
+    "story": "ترد عائلة الحدايدي ضمن عائلات صفورية في موسوعة القرى الفلسطينية، وتذكر الموسوعة أسماء عائلات مرتبطة بها.",
+    "source_name": "موسوعة القرى الفلسطينية - صفورية",
+    "source_url": "https://palqura.com/ar/article/439"
+  },
+  {
+    "id": "saffuriyya-najmeh",
+    "village_id": "saffuriyya",
+    "name_ar": "نجمة",
+    "aliases": [],
+    "story": "تورد موسوعة القرى الفلسطينية عائلة نجمة ضمن عائلات صفورية.",
+    "source_name": "موسوعة القرى الفلسطينية - صفورية",
+    "source_url": "https://palqura.com/ar/article/439"
+  },
+  {
+    "id": "lifta-saad",
+    "village_id": "lifta",
+    "name_ar": "حمولة سعد",
+    "aliases": ["سعد"],
+    "story": "تذكر موسوعة القرى الفلسطينية أن أهالي لفتا انقسموا إلى خمس حمايل، وكانت حمولة سعد من أكبر حمايل البلدة.",
+    "source_name": "موسوعة القرى الفلسطينية - لفتا",
+    "source_url": "https://palqura.com/ar/article/488/%D8%A7%D9%84%D8%B3%D9%83%D8%A7%D9%86"
+  },
+  {
+    "id": "lifta-al-aydeh",
+    "village_id": "lifta",
+    "name_ar": "حمولة العيدة",
+    "aliases": ["العيدة", "عايدة"],
+    "story": "ترد حمولة العيدة ضمن الحمايل الخمس الأساسية التي تذكرها موسوعة القرى الفلسطينية عن لفتا.",
+    "source_name": "موسوعة القرى الفلسطينية - لفتا",
+    "source_url": "https://palqura.com/ar/article/488/%D8%A7%D9%84%D8%B3%D9%83%D8%A7%D9%86"
+  },
+  {
+    "id": "lifta-al-ghaben",
+    "village_id": "lifta",
+    "name_ar": "حمولة الغبن",
+    "aliases": ["الغبن"],
+    "story": "تذكر موسوعة القرى الفلسطينية حمولة الغبن ضمن الحمايل التي تشكل منها مجتمع لفتا قبل التهجير.",
+    "source_name": "موسوعة القرى الفلسطينية - لفتا",
+    "source_url": "https://palqura.com/ar/article/488/%D8%A7%D9%84%D8%B3%D9%83%D8%A7%D9%86"
+  },
+  {
+    "id": "lifta-al-safran",
+    "village_id": "lifta",
+    "name_ar": "حمولة الصفران",
+    "aliases": ["الصفران"],
+    "story": "ترد حمولة الصفران ضمن الحمايل الخمس التي تذكرها موسوعة القرى الفلسطينية عن أهالي لفتا.",
+    "source_name": "موسوعة القرى الفلسطينية - لفتا",
+    "source_url": "https://palqura.com/ar/article/488/%D8%A7%D9%84%D8%B3%D9%83%D8%A7%D9%86"
+  },
+  {
+    "id": "lifta-muqbil",
+    "village_id": "lifta",
+    "name_ar": "حمولة مقبل",
+    "aliases": ["مقبل"],
+    "story": "تذكر موسوعة القرى الفلسطينية حمولة مقبل ضمن الحمايل الخمس في لفتا.",
+    "source_name": "موسوعة القرى الفلسطينية - لفتا",
+    "source_url": "https://palqura.com/ar/article/488/%D8%A7%D9%84%D8%B3%D9%83%D8%A7%D9%86"
+  },
+  {
+    "id": "bayt-daras-baroud",
+    "village_id": "bayt-daras",
+    "name_ar": "بارود",
+    "aliases": ["آل بارود"],
+    "story": "تذكر موسوعة القرى الفلسطينية أن بيت دراس تكونت من أربع عائلات رئيسية، وكانت بارود واحدة منها.",
+    "source_name": "موسوعة القرى الفلسطينية - بيت دراس",
+    "source_url": "https://palqura.com/article/443/%D8%A8%D9%8E%D9%8A%D8%AA%D9%92-%D8%AF%D9%8E%D8%B1%D9%8E%D8%A7%D8%B3%D9%92/3426/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "bayt-daras-al-maqadma",
+    "village_id": "bayt-daras",
+    "name_ar": "المقادمة",
+    "aliases": ["مقادمة"],
+    "story": "تذكر موسوعة القرى الفلسطينية المقادمة ضمن العائلات الرئيسية الأربع في بيت دراس.",
+    "source_name": "موسوعة القرى الفلسطينية - بيت دراس",
+    "source_url": "https://palqura.com/article/443/%D8%A8%D9%8E%D9%8A%D8%AA%D9%92-%D8%AF%D9%8E%D8%B1%D9%8E%D8%A7%D8%B3%D9%92/3426/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "bayt-daras-abu-shamala",
+    "village_id": "bayt-daras",
+    "name_ar": "أبو شمالة",
+    "aliases": ["ابو شمالة"],
+    "story": "ترد عائلة أبو شمالة ضمن العائلات الرئيسية التي تذكرها موسوعة القرى الفلسطينية عن بيت دراس.",
+    "source_name": "موسوعة القرى الفلسطينية - بيت دراس",
+    "source_url": "https://palqura.com/article/443/%D8%A8%D9%8E%D9%8A%D8%AA%D9%92-%D8%AF%D9%8E%D8%B1%D9%8E%D8%A7%D8%B3%D9%92/3426/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "bayt-daras-abed",
+    "village_id": "bayt-daras",
+    "name_ar": "عابد",
+    "aliases": [],
+    "story": "تذكر موسوعة القرى الفلسطينية عابد ضمن العائلات الرئيسية في بيت دراس، إضافة إلى عائلات أخرى انحدرت منها أو التحقت بالقرية لاحقًا.",
+    "source_name": "موسوعة القرى الفلسطينية - بيت دراس",
+    "source_url": "https://palqura.com/article/443/%D8%A8%D9%8E%D9%8A%D8%AA%D9%92-%D8%AF%D9%8E%D8%B1%D9%8E%D8%A7%D8%B3%D9%92/3426/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "bayt-daras-al-haddad",
+    "village_id": "bayt-daras",
+    "name_ar": "الحداد",
+    "aliases": ["حداد"],
+    "story": "تورد موسوعة القرى الفلسطينية الحداد ضمن العائلات الأخرى أو المنحدرة من العائلات الرئيسية في بيت دراس.",
+    "source_name": "موسوعة القرى الفلسطينية - بيت دراس",
+    "source_url": "https://palqura.com/article/443/%D8%A8%D9%8E%D9%8A%D8%AA%D9%92-%D8%AF%D9%8E%D8%B1%D9%8E%D8%A7%D8%B3%D9%92/3426/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "bayt-daras-saad",
+    "village_id": "bayt-daras",
+    "name_ar": "سعد",
+    "aliases": [],
+    "story": "تذكر موسوعة القرى الفلسطينية سعد ضمن عائلات بيت دراس الأخرى أو المرتبطة بالعائلات الرئيسية.",
+    "source_name": "موسوعة القرى الفلسطينية - بيت دراس",
+    "source_url": "https://palqura.com/article/443/%D8%A8%D9%8E%D9%8A%D8%AA%D9%92-%D8%AF%D9%8E%D8%B1%D9%8E%D8%A7%D8%B3%D9%92/3426/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "bayt-daras-al-badrasawi",
+    "village_id": "bayt-daras",
+    "name_ar": "البدرساوي",
+    "aliases": ["بدرساوي"],
+    "story": "تورد موسوعة القرى الفلسطينية البدرساوي ضمن عائلات بيت دراس، وتذكر أن لكل عائلة ديوانًا يجتمع فيه أفرادها للتشاور واستقبال الضيوف.",
+    "source_name": "موسوعة القرى الفلسطينية - بيت دراس",
+    "source_url": "https://palqura.com/article/443/%D8%A8%D9%8E%D9%8A%D8%AA%D9%92-%D8%AF%D9%8E%D8%B1%D9%8E%D8%A7%D8%B3%D9%92/3426/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "deir-yassin-dar-aql",
+    "village_id": "deir-yassin",
+    "name_ar": "حمولة دار عقل",
+    "aliases": ["دار عقل", "عقل"],
+    "story": "تذكر موسوعة القرى الفلسطينية أن دير ياسين كانت مكونة من ثلاث حمائل، ومنها حمولة دار عقل التي تفرعت عنها عائلات مثل رضوان وزهران وعطية.",
+    "source_name": "موسوعة القرى الفلسطينية - دير ياسين",
+    "source_url": "https://palqura.com/ar/article/327/%D8%AF%D9%8E%D9%8A%D9%92%D8%B1-%D9%8A%D9%8E%D8%A7%D8%B3%D9%90%D9%8A%D9%91%D9%86%D9%92/9921/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "deir-yassin-dar-shahadeh",
+    "village_id": "deir-yassin",
+    "name_ar": "حمولة دار شحادة",
+    "aliases": ["دار شحادة", "شحادة"],
+    "story": "ترد حمولة دار شحادة ضمن حمائل دير ياسين، وتذكر الموسوعة أن عائلات زيدان وخليل وسمور وعيد وجابر تفرعت عنها.",
+    "source_name": "موسوعة القرى الفلسطينية - دير ياسين",
+    "source_url": "https://palqura.com/ar/article/327/%D8%AF%D9%8E%D9%8A%D9%92%D8%B1-%D9%8A%D9%8E%D8%A7%D8%B3%D9%90%D9%8A%D9%91%D9%86%D9%92/9921/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "deir-yassin-dar-hamida",
+    "village_id": "deir-yassin",
+    "name_ar": "حمولة دار حميدة",
+    "aliases": ["دار حميدة", "حميدة"],
+    "story": "تذكر موسوعة القرى الفلسطينية حمولة دار حميدة ضمن حمائل دير ياسين، وتورد أن عائلتي حامد وعليا تفرعتا عنها.",
+    "source_name": "موسوعة القرى الفلسطينية - دير ياسين",
+    "source_url": "https://palqura.com/ar/article/327/%D8%AF%D9%8E%D9%8A%D9%92%D8%B1-%D9%8A%D9%8E%D8%A7%D8%B3%D9%90%D9%8A%D9%91%D9%86%D9%92/9921/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "al-birwa-damir",
+    "village_id": "al-birwa",
+    "name_ar": "دمير",
+    "aliases": [],
+    "story": "ترد دمير في قائمة عائلات البروة قبل عام 1948 كما تعرضها موسوعة القرى الفلسطينية مع أماكن تواجد العائلات بعد التهجير.",
+    "source_name": "موسوعة القرى الفلسطينية - البروة",
+    "source_url": "https://palqura.com/article/444/%D8%A7%D9%84%D8%A8%D9%90%D8%B1%D9%92%D9%88%D9%8E%D8%A9"
+  },
+  {
+    "id": "al-birwa-eid",
+    "village_id": "al-birwa",
+    "name_ar": "عيد",
+    "aliases": [],
+    "story": "تذكر موسوعة القرى الفلسطينية عائلة عيد ضمن عائلات قرية البروة قبل النكبة.",
+    "source_name": "موسوعة القرى الفلسطينية - البروة",
+    "source_url": "https://palqura.com/article/444/%D8%A7%D9%84%D8%A8%D9%90%D8%B1%D9%92%D9%88%D9%8E%D8%A9"
+  },
+  {
+    "id": "al-birwa-darwish",
+    "village_id": "al-birwa",
+    "name_ar": "درويش",
+    "aliases": ["آل درويش"],
+    "story": "تورد موسوعة القرى الفلسطينية عائلة درويش ضمن عائلات البروة، وهي العائلة التي ينتمي إليها الشاعر محمود درويش.",
+    "source_name": "موسوعة القرى الفلسطينية - البروة",
+    "source_url": "https://palqura.com/article/444/%D8%A7%D9%84%D8%A8%D9%90%D8%B1%D9%92%D9%88%D9%8E%D8%A9"
+  },
+  {
+    "id": "al-birwa-kiyal",
+    "village_id": "al-birwa",
+    "name_ar": "كيال",
+    "aliases": ["الكيال"],
+    "story": "ترد كيال ضمن قائمة عائلات البروة قبل عام 1948 في موسوعة القرى الفلسطينية.",
+    "source_name": "موسوعة القرى الفلسطينية - البروة",
+    "source_url": "https://palqura.com/article/444/%D8%A7%D9%84%D8%A8%D9%90%D8%B1%D9%92%D9%88%D9%8E%D8%A9"
+  },
+  {
+    "id": "al-birwa-saad",
+    "village_id": "al-birwa",
+    "name_ar": "سعد",
+    "aliases": [],
+    "story": "تذكر موسوعة القرى الفلسطينية سعد ضمن عائلات البروة قبل النكبة.",
+    "source_name": "موسوعة القرى الفلسطينية - البروة",
+    "source_url": "https://palqura.com/article/444/%D8%A7%D9%84%D8%A8%D9%90%D8%B1%D9%92%D9%88%D9%8E%D8%A9"
+  },
+  {
+    "id": "iqrit-ashqar",
+    "village_id": "iqrit",
+    "name_ar": "أشقر",
+    "aliases": ["الأشقر"],
+    "story": "ترد أشقر ضمن العائلات التي سكنت إقرت قبل تهجير أهلها.",
+    "source_name": "ويكيبيديا العربية على IPFS - إقرت",
+    "source_url": "https://ar.wikipedia-on-ipfs.org/wiki/%D8%A5%D9%82%D8%B1%D8%AA"
+  },
+  {
+    "id": "iqrit-ayoub",
+    "village_id": "iqrit",
+    "name_ar": "أيوب",
+    "aliases": [],
+    "story": "تذكر صفحة إقرت أن أيوب من العائلات التي سكنت القرية قبل التهجير.",
+    "source_name": "ويكيبيديا العربية على IPFS - إقرت",
+    "source_url": "https://ar.wikipedia-on-ipfs.org/wiki/%D8%A5%D9%82%D8%B1%D8%AA"
+  },
+  {
+    "id": "iqrit-haddad",
+    "village_id": "iqrit",
+    "name_ar": "حداد",
+    "aliases": ["الحداد"],
+    "story": "ترد حداد ضمن عائلات إقرت في المصدر المستخدم لهذه النسخة.",
+    "source_name": "ويكيبيديا العربية على IPFS - إقرت",
+    "source_url": "https://ar.wikipedia-on-ipfs.org/wiki/%D8%A5%D9%82%D8%B1%D8%AA"
+  },
+  {
+    "id": "iqrit-khoury",
+    "village_id": "iqrit",
+    "name_ar": "خوري",
+    "aliases": ["الخوري"],
+    "story": "تذكر خوري ضمن العائلات التي سكنت إقرت قبل أن يطرد أهلها من القرية.",
+    "source_name": "ويكيبيديا العربية على IPFS - إقرت",
+    "source_url": "https://ar.wikipedia-on-ipfs.org/wiki/%D8%A5%D9%82%D8%B1%D8%AA"
+  },
+  {
+    "id": "kafr-birim-srou",
+    "village_id": "kafr-birim",
+    "name_ar": "سروع",
+    "aliases": [],
+    "story": "تورد موسوعة القرى الفلسطينية سروع ضمن عائلات كفر برعم.",
+    "source_name": "موسوعة القرى الفلسطينية - كفر برعم",
+    "source_url": "https://palqura.com/article/537/%D9%83%D9%8E%D9%81%D9%92%D8%B1-%D8%A8%D9%90%D8%B1%D9%92%D8%B9%D9%90%D9%85%D9%92/7041/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "kafr-birim-dho",
+    "village_id": "kafr-birim",
+    "name_ar": "ضو",
+    "aliases": [],
+    "story": "ترد ضو ضمن قائمة عائلات كفر برعم في موسوعة القرى الفلسطينية.",
+    "source_name": "موسوعة القرى الفلسطينية - كفر برعم",
+    "source_url": "https://palqura.com/article/537/%D9%83%D9%8E%D9%81%D9%92%D8%B1-%D8%A8%D9%90%D8%B1%D9%92%D8%B9%D9%90%D9%85%D9%92/7041/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "kafr-birim-farah",
+    "village_id": "kafr-birim",
+    "name_ar": "فرح",
+    "aliases": [],
+    "story": "تذكر موسوعة القرى الفلسطينية فرح ضمن عائلات قرية كفر برعم.",
+    "source_name": "موسوعة القرى الفلسطينية - كفر برعم",
+    "source_url": "https://palqura.com/article/537/%D9%83%D9%8E%D9%81%D9%92%D8%B1-%D8%A8%D9%90%D8%B1%D9%92%D8%B9%D9%90%D9%85%D9%92/7041/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "kafr-birim-issa",
+    "village_id": "kafr-birim",
+    "name_ar": "عيسى",
+    "aliases": [],
+    "story": "ترد عيسى ضمن العائلات التي تسجلها موسوعة القرى الفلسطينية في كفر برعم.",
+    "source_name": "موسوعة القرى الفلسطينية - كفر برعم",
+    "source_url": "https://palqura.com/article/537/%D9%83%D9%8E%D9%81%D9%92%D8%B1-%D8%A8%D9%90%D8%B1%D9%92%D8%B9%D9%90%D9%85%D9%92/7041/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "bayt-nattif-al-shawaqiq",
+    "village_id": "bayt-nattif",
+    "name_ar": "الشواقيق",
+    "aliases": ["الشواكيك", "أبو صبحة", "قوم عليوة"],
+    "story": "تذكر موسوعة القرى الفلسطينية أن الشواقيق أو الشواكيك من أقدم العائلات التي سكنت بيت نتيف، وتصفها بأنها أصل البلد كما يقال.",
+    "source_name": "موسوعة القرى الفلسطينية - بيت نتيف",
+    "source_url": "https://www.palqura.com/ar/article/356/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1"
+  },
+  {
+    "id": "bayt-nattif-al-turki",
+    "village_id": "bayt-nattif",
+    "name_ar": "آل تركي",
+    "aliases": ["تركي"],
+    "story": "تورد موسوعة القرى الفلسطينية آل تركي ضمن عائلة الشواقيق في بيت نتيف.",
+    "source_name": "موسوعة القرى الفلسطينية - بيت نتيف",
+    "source_url": "https://www.palqura.com/ar/article/356/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1"
+  },
+  {
+    "id": "bayt-nattif-dandan",
+    "village_id": "bayt-nattif",
+    "name_ar": "آل دندن",
+    "aliases": ["دندن"],
+    "story": "تذكر موسوعة القرى الفلسطينية آل دندن ضمن تفرعات عائلة الشواقيق في بيت نتيف.",
+    "source_name": "موسوعة القرى الفلسطينية - بيت نتيف",
+    "source_url": "https://www.palqura.com/ar/article/356/%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1"
+  },
+  {
+    "id": "bayt-mahsir-al-najjar",
+    "village_id": "bayt-mahsir",
+    "name_ar": "النجار",
+    "aliases": ["النّجار"],
+    "story": "تذكر موسوعة القرى الفلسطينية أن بيت محسير تكونت من تسع حمايل رئيسية، ومنها النجار التي تضم عدة فندات.",
+    "source_name": "موسوعة القرى الفلسطينية - بيت محسير",
+    "source_url": "https://palqura.com/ar/article/482/%D8%A8%D9%8A%D8%AA-%D9%85%D8%AD%D8%B3%D9%8A%D8%B1/5264/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "bayt-mahsir-al-ababdeh",
+    "village_id": "bayt-mahsir",
+    "name_ar": "العبابدة",
+    "aliases": [],
+    "story": "تورد موسوعة القرى الفلسطينية العبابدة ضمن الحمايل الرئيسة في بيت محسير، وتذكر أنها تضم عدة فندات.",
+    "source_name": "موسوعة القرى الفلسطينية - بيت محسير",
+    "source_url": "https://palqura.com/ar/article/482/%D8%A8%D9%8A%D8%AA-%D9%85%D8%AD%D8%B3%D9%8A%D8%B1/5264/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "bayt-mahsir-saadeh",
+    "village_id": "bayt-mahsir",
+    "name_ar": "سعادة",
+    "aliases": [],
+    "story": "تذكر موسوعة القرى الفلسطينية سعادة ضمن العائلات والحمايل الكبيرة في بيت محسير.",
+    "source_name": "موسوعة القرى الفلسطينية - بيت محسير",
+    "source_url": "https://palqura.com/ar/article/482/%D8%A8%D9%8A%D8%AA-%D9%85%D8%AD%D8%B3%D9%8A%D8%B1/5264/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "bayt-mahsir-dawood",
+    "village_id": "bayt-mahsir",
+    "name_ar": "داوود",
+    "aliases": ["داود"],
+    "story": "ترد داوود ضمن حمايل بيت محسير في موسوعة القرى الفلسطينية.",
+    "source_name": "موسوعة القرى الفلسطينية - بيت محسير",
+    "source_url": "https://palqura.com/ar/article/482/%D8%A8%D9%8A%D8%AA-%D9%85%D8%AD%D8%B3%D9%8A%D8%B1/5264/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "tantura-al-dasuqi",
+    "village_id": "tantura",
+    "name_ar": "الدسوقي",
+    "aliases": ["آل الدسوقي"],
+    "story": "تذكر موسوعة القرى الفلسطينية أن الدسوقي من العائلات المؤسسة للطنطورة الحديثة، وتصفها بأنها أكبر عائلة في القرية قبل النكبة.",
+    "source_name": "موسوعة القرى الفلسطينية - الطنطورة",
+    "source_url": "https://palqura.com/ar/article/442/%D8%A7%D9%84%D8%B7%D9%8E%D9%86%D9%92%D8%B7%D9%8F%D9%88%D9%92%D8%B1%D9%8E%D8%A9"
+  },
+  {
+    "id": "tantura-yahya",
+    "village_id": "tantura",
+    "name_ar": "آل يحيى",
+    "aliases": ["اليحيى"],
+    "story": "ترد آل يحيى ضمن العائلات المؤسسة للطنطورة الحديثة في موسوعة القرى الفلسطينية.",
+    "source_name": "موسوعة القرى الفلسطينية - الطنطورة",
+    "source_url": "https://palqura.com/ar/article/442/%D8%A7%D9%84%D8%B7%D9%8E%D9%86%D9%92%D8%B7%D9%8F%D9%88%D9%92%D8%B1%D9%8E%D8%A9"
+  },
+  {
+    "id": "tantura-al-hindi",
+    "village_id": "tantura",
+    "name_ar": "الهندي",
+    "aliases": ["آل الهندي"],
+    "story": "تذكر موسوعة القرى الفلسطينية آل الهندي ضمن العائلات المؤسسة للطنطورة، وكان الحاج داود الهندي مختارًا للطنطورة.",
+    "source_name": "موسوعة القرى الفلسطينية - الطنطورة",
+    "source_url": "https://palqura.com/ar/article/442/%D8%A7%D9%84%D8%B7%D9%8E%D9%86%D9%92%D8%B7%D9%8F%D9%88%D9%92%D8%B1%D9%8E%D8%A9"
+  },
+  {
+    "id": "tantura-ayoub",
+    "village_id": "tantura",
+    "name_ar": "آل أيوب",
+    "aliases": ["أيوب", "إعمر"],
+    "story": "تورد موسوعة القرى الفلسطينية آل أيوب أو إعمر ضمن العائلات المؤسسة للطنطورة الحديثة.",
+    "source_name": "موسوعة القرى الفلسطينية - الطنطورة",
+    "source_url": "https://palqura.com/ar/article/442/%D8%A7%D9%84%D8%B7%D9%8E%D9%86%D9%92%D8%B7%D9%8F%D9%88%D9%92%D8%B1%D9%8E%D8%A9"
+  },
+  {
+    "id": "al-kafrayn-al-ghoul",
+    "village_id": "al-kafrayn",
+    "name_ar": "الغول",
+    "aliases": ["حمولة الغول"],
+    "story": "تذكر موسوعة القرى الفلسطينية أن الغول أكبر حمولة في الكفرين ومن كبار الملاك فيها.",
+    "source_name": "موسوعة القرى الفلسطينية - الكفرين",
+    "source_url": "https://palqura.com/ar/article/667/%D8%A8%D9%84%D8%A7%D8%AF-%D8%A7%D9%84%D8%B1%D9%88%D8%AD%D8%A9-%D9%88%D9%82%D8%B1%D8%A7%D9%87%D8%A7"
+  },
+  {
+    "id": "al-kafrayn-dar-saleh",
+    "village_id": "al-kafrayn",
+    "name_ar": "دار صالح",
+    "aliases": ["صالح"],
+    "story": "تورد موسوعة القرى الفلسطينية دار صالح ضمن تفرعات نسل إبراهيم الغول في الكفرين.",
+    "source_name": "موسوعة القرى الفلسطينية - الكفرين",
+    "source_url": "https://palqura.com/ar/article/667/%D8%A8%D9%84%D8%A7%D8%AF-%D8%A7%D9%84%D8%B1%D9%88%D8%AD%D8%A9-%D9%88%D9%82%D8%B1%D8%A7%D9%87%D8%A7"
+  },
+  {
+    "id": "al-kafrayn-dar-sarhan",
+    "village_id": "al-kafrayn",
+    "name_ar": "دار سرحان",
+    "aliases": ["سرحان"],
+    "story": "تذكر موسوعة القرى الفلسطينية دار سرحان ضمن فروع حمولة الغول في الكفرين.",
+    "source_name": "موسوعة القرى الفلسطينية - الكفرين",
+    "source_url": "https://palqura.com/ar/article/667/%D8%A8%D9%84%D8%A7%D8%AF-%D8%A7%D9%84%D8%B1%D9%88%D8%AD%D8%A9-%D9%88%D9%82%D8%B1%D8%A7%D9%87%D8%A7"
+  },
+  {
+    "id": "umm-khalid-al-jallad",
+    "village_id": "umm-khalid",
+    "name_ar": "الجلاد",
+    "aliases": [],
+    "story": "ترد إشارة إلى الحاج بديع محمود يوسف الجلاد ضمن عائلات أم خالد في نسخة موسوعة القرى الفلسطينية القابلة للتنزيل.",
+    "source_name": "موسوعة القرى الفلسطينية - أم خالد",
+    "source_url": "https://palqura.com/download/284/%D8%A3%D9%85-%D8%AE%D9%8E%D8%A7%D9%84%D9%90%D8%AF%D9%92"
+  },
+  {
+    "id": "umm-khalid-ghaben",
+    "village_id": "umm-khalid",
+    "name_ar": "غبن",
+    "aliases": ["عائلة غبن"],
+    "story": "تذكر موسوعة القرى الفلسطينية مجزرة عائلتي غبن والكسيح ضمن مادة أم خالد، ولذلك توثق هذه النسخة اسم العائلة مع القرية.",
+    "source_name": "موسوعة القرى الفلسطينية - أم خالد",
+    "source_url": "https://palqura.com/download/284/%D8%A3%D9%85-%D8%AE%D9%8E%D8%A7%D9%84%D9%90%D8%AF%D9%92"
+  },
+  {
+    "id": "umm-khalid-al-kasih",
+    "village_id": "umm-khalid",
+    "name_ar": "الكسيح",
+    "aliases": [],
+    "story": "ترد الكسيح مع عائلة غبن في مادة أم خالد في موسوعة القرى الفلسطينية ضمن سياق مجزرة العائلتين.",
+    "source_name": "موسوعة القرى الفلسطينية - أم خالد",
+    "source_url": "https://palqura.com/download/284/%D8%A3%D9%85-%D8%AE%D9%8E%D8%A7%D9%84%D9%90%D8%AF%D9%92"
+  },
+  {
+    "id": "al-shaykh-muwannis-barakat",
+    "village_id": "al-shaykh-muwannis",
+    "name_ar": "آل بركات",
+    "aliases": ["بركات"],
+    "story": "تذكر موسوعة القرى الفلسطينية آل بركات ضمن العائلات التي سكنت الشيخ مونس.",
+    "source_name": "موسوعة القرى الفلسطينية - الشيخ مونس",
+    "source_url": "https://palqura.com/ar/article/300/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "al-shaykh-muwannis-mansour",
+    "village_id": "al-shaykh-muwannis",
+    "name_ar": "آل منصور",
+    "aliases": ["منصور"],
+    "story": "تورد موسوعة القرى الفلسطينية آل منصور ضمن عائلات الشيخ مونس.",
+    "source_name": "موسوعة القرى الفلسطينية - الشيخ مونس",
+    "source_url": "https://palqura.com/ar/article/300/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "al-shaykh-muwannis-al-shanik",
+    "village_id": "al-shaykh-muwannis",
+    "name_ar": "الشنيك",
+    "aliases": [],
+    "story": "تذكر الشنيك ضمن العائلات التي سكنت الشيخ مونس في موسوعة القرى الفلسطينية.",
+    "source_name": "موسوعة القرى الفلسطينية - الشيخ مونس",
+    "source_url": "https://palqura.com/ar/article/300/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "al-shaykh-muwannis-salameh",
+    "village_id": "al-shaykh-muwannis",
+    "name_ar": "سلامة",
+    "aliases": ["أبو سلامه"],
+    "story": "ترد سلامة ضمن عائلات الشيخ مونس في موسوعة القرى الفلسطينية.",
+    "source_name": "موسوعة القرى الفلسطينية - الشيخ مونس",
+    "source_url": "https://palqura.com/ar/article/300/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "al-mazar-jenin-al-saadi",
+    "village_id": "al-mazar-jenin",
+    "name_ar": "السعدي",
+    "aliases": ["سعدي"],
+    "story": "تذكر موسوعة القرى الفلسطينية أن جميع أبناء قرية المزار في قضاء جنين من عائلة واحدة هي عائلة السعدي.",
+    "source_name": "موسوعة القرى الفلسطينية - المزار",
+    "source_url": "https://palqura.com/article/1457/%D8%A7%D9%84%D9%85%D9%92%D8%B2%D9%8E%D8%A7%D8%B1/11675/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "al-tira-haifa-al-abtah",
+    "village_id": "al-tira-haifa",
+    "name_ar": "الأبطح",
+    "aliases": [],
+    "story": "تذكر موسوعة القرى الفلسطينية الأبطح ضمن العائلات التي سكنت طيرة حيفا حتى احتلالها.",
+    "source_name": "موسوعة القرى الفلسطينية - الطيرة",
+    "source_url": "https://palqura.com/article/641/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9"
+  },
+  {
+    "id": "al-tira-haifa-al-bash",
+    "village_id": "al-tira-haifa",
+    "name_ar": "الباش",
+    "aliases": [],
+    "story": "ترد الباش ضمن قائمة عائلات طيرة حيفا في موسوعة القرى الفلسطينية.",
+    "source_name": "موسوعة القرى الفلسطينية - الطيرة",
+    "source_url": "https://palqura.com/article/641/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9"
+  },
+  {
+    "id": "al-tira-haifa-bakir",
+    "village_id": "al-tira-haifa",
+    "name_ar": "باكير",
+    "aliases": [],
+    "story": "تذكر موسوعة القرى الفلسطينية باكير ضمن العائلات التي سكنت الطيرة قبل التهجير.",
+    "source_name": "موسوعة القرى الفلسطينية - الطيرة",
+    "source_url": "https://palqura.com/article/641/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9"
+  },
+  {
+    "id": "al-tira-haifa-badr",
+    "village_id": "al-tira-haifa",
+    "name_ar": "بدر",
+    "aliases": [],
+    "story": "تورد موسوعة القرى الفلسطينية بدر ضمن عائلات طيرة حيفا.",
+    "source_name": "موسوعة القرى الفلسطينية - الطيرة",
+    "source_url": "https://palqura.com/article/641/%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9"
+  },
+  {
+    "id": "balad-al-shaykh-al-sahli",
+    "village_id": "balad-al-shaykh",
+    "name_ar": "السهلي",
+    "aliases": ["السّهلي"],
+    "story": "تذكر موسوعة القرى الفلسطينية أن عائلة السهلي وما تفرع عنها من أوائل من سكن بلد الشيخ.",
+    "source_name": "موسوعة القرى الفلسطينية - بلد الشيخ",
+    "source_url": "https://palqura.com/ar/download/460/%D8%A8%D9%8E%D9%84%D9%8E%D8%AF-%D8%A7%D9%84%D8%B4%D9%8E%D9%8A%D9%91%D9%8E%D8%AE%D9%92"
+  },
+  {
+    "id": "balad-al-shaykh-hamdan",
+    "village_id": "balad-al-shaykh",
+    "name_ar": "حمدان",
+    "aliases": [],
+    "story": "ترد حمدان ضمن أسماء العائلات التي يوردها مصدر موسوعة القرى الفلسطينية عن بلد الشيخ.",
+    "source_name": "موسوعة القرى الفلسطينية - بلد الشيخ",
+    "source_url": "https://palqura.com/ar/download/460/%D8%A8%D9%8E%D9%84%D9%8E%D8%AF-%D8%A7%D9%84%D8%B4%D9%8E%D9%8A%D9%91%D9%8E%D8%AE%D9%92"
+  },
+  {
+    "id": "balad-al-shaykh-abu-shaira",
+    "village_id": "balad-al-shaykh",
+    "name_ar": "أبو شعيرة",
+    "aliases": ["ابو شعيرة"],
+    "story": "تذكر موسوعة القرى الفلسطينية أبو شعيرة ضمن العائلات التي ورد ذكرها في بلد الشيخ.",
+    "source_name": "موسوعة القرى الفلسطينية - بلد الشيخ",
+    "source_url": "https://palqura.com/ar/download/460/%D8%A8%D9%8E%D9%84%D9%8E%D8%AF-%D8%A7%D9%84%D8%B4%D9%8E%D9%8A%D9%91%D9%8E%D8%AE%D9%92"
+  },
+  {
+    "id": "al-ghubayya-al-fawqa-al-sharqawi",
+    "village_id": "al-ghubayya-al-fawqa",
+    "name_ar": "الشرقاوي",
+    "aliases": ["العابورة"],
+    "story": "تورد موسوعة القرى الفلسطينية الشرقاوي أو العابورة ضمن أسماء عائلات الغبية الفوقا.",
+    "source_name": "موسوعة القرى الفلسطينية - الغبية الفوقا",
+    "source_url": "https://palqura.com/ar/article/217/%D8%A7%D9%84%D8%BA%D9%8F%D8%A8%D9%8E%D9%8A%D9%8E%D8%A9-%D8%A7%D9%84%D9%81%D9%8E%D9%88%D9%92%D9%82%D9%8E%D8%A7-%D9%82%D8%B1%D9%89-%D8%A7%D9%84%D8%B1%D9%88%D8%AD%D8%A9/5532/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "al-ghubayya-al-fawqa-abu-zeineh",
+    "village_id": "al-ghubayya-al-fawqa",
+    "name_ar": "أبو زينة",
+    "aliases": ["ابو زينة"],
+    "story": "تذكر موسوعة القرى الفلسطينية أبو زينة ضمن عائلات الغبية الفوقا.",
+    "source_name": "موسوعة القرى الفلسطينية - الغبية الفوقا",
+    "source_url": "https://palqura.com/ar/article/217/%D8%A7%D9%84%D8%BA%D9%8F%D8%A8%D9%8E%D9%8A%D9%8E%D8%A9-%D8%A7%D9%84%D9%81%D9%8E%D9%88%D9%92%D9%82%D9%8E%D8%A7-%D9%82%D8%B1%D9%89-%D8%A7%D9%84%D8%B1%D9%88%D8%AD%D8%A9/5532/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "al-ghubayya-al-fawqa-masoud",
+    "village_id": "al-ghubayya-al-fawqa",
+    "name_ar": "مسعود",
+    "aliases": [],
+    "story": "ترد مسعود ضمن قائمة أسماء عائلات الغبية الفوقا في موسوعة القرى الفلسطينية.",
+    "source_name": "موسوعة القرى الفلسطينية - الغبية الفوقا",
+    "source_url": "https://palqura.com/ar/article/217/%D8%A7%D9%84%D8%BA%D9%8F%D8%A8%D9%8E%D9%8A%D9%8E%D8%A9-%D8%A7%D9%84%D9%81%D9%8E%D9%88%D9%92%D9%82%D9%8E%D8%A7-%D9%82%D8%B1%D9%89-%D8%A7%D9%84%D8%B1%D9%88%D8%AD%D8%A9/5532/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "al-mansi-al-salahat",
+    "village_id": "al-mansi",
+    "name_ar": "الصلاحات",
+    "aliases": [],
+    "story": "تذكر موسوعة القرى الفلسطينية الصلاحات ضمن عائلات المنسي أو عرب بنيها في قرى الروحة.",
+    "source_name": "موسوعة القرى الفلسطينية - المنسي",
+    "source_url": "https://palqura.com/ar/article/675/%D8%A7%D9%84%D9%85%D9%8E%D9%86%D9%92%D8%B3%D9%8A-%D8%B9%D8%B1%D8%A8-%D8%A8%D9%86%D9%8A%D9%87%D8%A7-%D9%82%D8%B1%D9%89-%D8%A7%D9%84%D8%B1%D9%88%D8%AD%D8%A9/4420/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "al-mansi-al-sayyed",
+    "village_id": "al-mansi",
+    "name_ar": "السيد",
+    "aliases": ["السّيّد"],
+    "story": "ترد السيد ضمن عائلات قرية المنسي في موسوعة القرى الفلسطينية.",
+    "source_name": "موسوعة القرى الفلسطينية - المنسي",
+    "source_url": "https://palqura.com/ar/article/675/%D8%A7%D9%84%D9%85%D9%8E%D9%86%D9%92%D8%B3%D9%8A-%D8%B9%D8%B1%D8%A8-%D8%A8%D9%86%D9%8A%D9%87%D8%A7-%D9%82%D8%B1%D9%89-%D8%A7%D9%84%D8%B1%D9%88%D8%AD%D8%A9/4420/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "al-mansi-abu-mulihan",
+    "village_id": "al-mansi",
+    "name_ar": "أبو مليحان",
+    "aliases": ["ابو مليحان"],
+    "story": "تذكر موسوعة القرى الفلسطينية أبو مليحان ضمن عائلات المنسي.",
+    "source_name": "موسوعة القرى الفلسطينية - المنسي",
+    "source_url": "https://palqura.com/ar/article/675/%D8%A7%D9%84%D9%85%D9%8E%D9%86%D9%92%D8%B3%D9%8A-%D8%B9%D8%B1%D8%A8-%D8%A8%D9%86%D9%8A%D9%87%D8%A7-%D9%82%D8%B1%D9%89-%D8%A7%D9%84%D8%B1%D9%88%D8%AD%D8%A9/4420/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "qalunya-niqola",
+    "village_id": "qalunya",
+    "name_ar": "نقولا",
+    "aliases": [],
+    "story": "تذكر موسوعة القرى الفلسطينية أن نقولا من العائلات المسيحية في قالونيا.",
+    "source_name": "موسوعة القرى الفلسطينية - قالونيا",
+    "source_url": "https://palqura.com/article/487/%D9%82%D8%A7%D9%84%D9%88%D9%86%D9%8A%D8%A7/3593/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "qalunya-mitri",
+    "village_id": "qalunya",
+    "name_ar": "متري",
+    "aliases": [],
+    "story": "تورد موسوعة القرى الفلسطينية متري ضمن العائلات المسيحية في قالونيا.",
+    "source_name": "موسوعة القرى الفلسطينية - قالونيا",
+    "source_url": "https://palqura.com/article/487/%D9%82%D8%A7%D9%84%D9%88%D9%86%D9%8A%D8%A7/3593/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "qalunya-yousef-marom",
+    "village_id": "qalunya",
+    "name_ar": "يوسف مروم",
+    "aliases": ["يوسف"],
+    "story": "تذكر موسوعة القرى الفلسطينية يوسف مروم ضمن العائلات المسيحية في قالونيا.",
+    "source_name": "موسوعة القرى الفلسطينية - قالونيا",
+    "source_url": "https://palqura.com/article/487/%D9%82%D8%A7%D9%84%D9%88%D9%86%D9%8A%D8%A7/3593/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "sabbarin-al-hamidi",
+    "village_id": "sabbarin",
+    "name_ar": "الحميدي",
+    "aliases": ["حميدي"],
+    "story": "تذكر موسوعة القرى الفلسطينية الحميدي ضمن عائلات صبارين.",
+    "source_name": "موسوعة القرى الفلسطينية - صبارين",
+    "source_url": "https://palqura.com/article/638/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "sabbarin-al-daameh",
+    "village_id": "sabbarin",
+    "name_ar": "الدعمة",
+    "aliases": ["الدعمي"],
+    "story": "ترد الدعمة ضمن عائلات قرية صبارين في موسوعة القرى الفلسطينية.",
+    "source_name": "موسوعة القرى الفلسطينية - صبارين",
+    "source_url": "https://palqura.com/article/638/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "sabbarin-al-shafii",
+    "village_id": "sabbarin",
+    "name_ar": "الشافعي",
+    "aliases": ["الشّافعي"],
+    "story": "تذكر موسوعة القرى الفلسطينية الشافعي ضمن عائلات صبارين.",
+    "source_name": "موسوعة القرى الفلسطينية - صبارين",
+    "source_url": "https://palqura.com/article/638/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "arab-al-fuqara-al-balawna",
+    "village_id": "arab-al-fuqara",
+    "name_ar": "البلاونة",
+    "aliases": ["قبيلة البلاونة"],
+    "story": "تذكر موسوعة القرى الفلسطينية أن سكان عرب الفقراء يتحدرون من بعض بطون قبيلة البلاونة البدوية.",
+    "source_name": "موسوعة القرى الفلسطينية - عرب الفقراء",
+    "source_url": "https://palqura.com/article/660/%D8%B9%D8%B1%D8%A8-%D8%A7%D9%84%D9%81%D9%82%D8%B1%D8%A7%D8%A1-%D8%A7%D9%84%D8%B4%D9%8A%D8%AE-%D8%AD%D9%84%D9%88/6324/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "arab-al-nufay-at-al-nufay-at",
+    "village_id": "arab-al-nufay-at",
+    "name_ar": "النفيعات",
+    "aliases": ["قبيلة النفيعات", "نفيعات مصر"],
+    "story": "تذكر موسوعة القرى الفلسطينية أن عرب النفيعات ينتسبون إلى نافع بن مروان من بطون ثعلبة طي، وتعود أصولهم إلى نفيعات مصر.",
+    "source_name": "موسوعة القرى الفلسطينية - عرب النفيعات",
+    "source_url": "https://palqura.com/article/662/%D8%B9%D8%A7%D8%A6%D9%84%D8%A7%D8%AA-%D8%A7%D9%84%D9%82%D8%B1%D9%8A%D8%A9-%D9%88%D8%B9%D8%B4%D8%A7%D8%A6%D8%B1%D9%87%D8%A7"
+  },
+  {
+    "id": "husha-moqari",
+    "village_id": "husha",
+    "name_ar": "موقاري",
+    "aliases": ["مقاري"],
+    "story": "ترد موقاري ضمن أسماء العائلات التي تذكرها موسوعة القرى الفلسطينية عن هوشة.",
+    "source_name": "موسوعة القرى الفلسطينية - هوشة",
+    "source_url": "https://palqura.com/download/670/%D9%87%D9%88%D8%B4%D8%A9-%D8%A3%D9%87%D9%84%D9%87%D8%A7-%D9%85%D9%86-%D8%A3%D8%B5%D9%88%D9%84-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9"
+  },
+  {
+    "id": "husha-bouyahia",
+    "village_id": "husha",
+    "name_ar": "بويحيى",
+    "aliases": ["بو يحيى"],
+    "story": "تذكر موسوعة القرى الفلسطينية بويحيى ضمن عائلات هوشة ذات الأصول الجزائرية.",
+    "source_name": "موسوعة القرى الفلسطينية - هوشة",
+    "source_url": "https://palqura.com/download/670/%D9%87%D9%88%D8%B4%D8%A9-%D8%A3%D9%87%D9%84%D9%87%D8%A7-%D9%85%D9%86-%D8%A3%D8%B5%D9%88%D9%84-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9"
+  },
+  {
+    "id": "husha-daraji",
+    "village_id": "husha",
+    "name_ar": "دراجي",
+    "aliases": [],
+    "story": "ترد دراجي ضمن أسماء عائلات هوشة في موسوعة القرى الفلسطينية.",
+    "source_name": "موسوعة القرى الفلسطينية - هوشة",
+    "source_url": "https://palqura.com/download/670/%D9%87%D9%88%D8%B4%D8%A9-%D8%A3%D9%87%D9%84%D9%87%D8%A7-%D9%85%D9%86-%D8%A3%D8%B5%D9%88%D9%84-%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A%D8%A9"
+  },
+  {
+    "id": "kafr-ana-dar-saleh",
+    "village_id": "kafr-ana",
+    "name_ar": "دار صالح",
+    "aliases": ["صالح"],
+    "story": "تذكر موسوعة القرى الفلسطينية أن عائلات كفر عانة كانت موزعة على ست حمايل، ومنها دار صالح.",
+    "source_name": "موسوعة القرى الفلسطينية - كفر عانة",
+    "source_url": "https://www.palqura.com/article/497/%D9%83%D9%81%D8%B1-%D8%B9%D8%A7%D9%86%D9%87"
+  },
+  {
+    "id": "kafr-ana-al-malka",
+    "village_id": "kafr-ana",
+    "name_ar": "الملكة",
+    "aliases": [],
+    "story": "ترد الملكة ضمن الحمايل الست التي تذكرها موسوعة القرى الفلسطينية في كفر عانة.",
+    "source_name": "موسوعة القرى الفلسطينية - كفر عانة",
+    "source_url": "https://www.palqura.com/article/497/%D9%83%D9%81%D8%B1-%D8%B9%D8%A7%D9%86%D9%87"
+  },
+  {
+    "id": "kafr-ana-al-sharayeh",
+    "village_id": "kafr-ana",
+    "name_ar": "الشرايعة",
+    "aliases": [],
+    "story": "تذكر موسوعة القرى الفلسطينية الشرايعة ضمن حمايل كفر عانة.",
+    "source_name": "موسوعة القرى الفلسطينية - كفر عانة",
+    "source_url": "https://www.palqura.com/article/497/%D9%83%D9%81%D8%B1-%D8%B9%D8%A7%D9%86%D9%87"
+  },
+  {
+    "id": "qaqun-abu-hantash",
+    "village_id": "qaqun",
+    "name_ar": "أبو هنطش",
+    "aliases": ["ابو هنطش"],
+    "story": "تذكر موسوعة ويكيبيديا الإنجليزية أن عائلات قاقون كانت تشمل أبو هنطش وزيدان والشيخ غانم ومتروك والحافي.",
+    "source_name": "ويكيبيديا الإنجليزية - قاقون",
+    "source_url": "https://en.wikipedia.org/wiki/Qaqun"
+  },
+  {
+    "id": "qaqun-zidan",
+    "village_id": "qaqun",
+    "name_ar": "زيدان",
+    "aliases": ["آل زيدان"],
+    "story": "ترد زيدان ضمن العشائر التي تكونت منها عائلات قاقون وفق المصدر المستخدم.",
+    "source_name": "ويكيبيديا الإنجليزية - قاقون",
+    "source_url": "https://en.wikipedia.org/wiki/Qaqun"
+  },
+  {
+    "id": "qaqun-al-shaykh-ghanem",
+    "village_id": "qaqun",
+    "name_ar": "الشيخ غانم",
+    "aliases": ["آل الشيخ غانم"],
+    "story": "تذكر صفحة قاقون أن الشيخ غانم من العشائر التي تكونت منها عائلات القرية.",
+    "source_name": "ويكيبيديا الإنجليزية - قاقون",
+    "source_url": "https://en.wikipedia.org/wiki/Qaqun"
+  },
+  {
+    "id": "akbara-abu-al-khal",
+    "village_id": "akbara",
+    "name_ar": "أبو الخل",
+    "aliases": ["ابو الخل"],
+    "story": "تذكر موسوعة القرى الفلسطينية أبو الخل ضمن أسماء عائلات قرية عكبرة المدونة في موقع هوية.",
+    "source_name": "موسوعة القرى الفلسطينية - عكبرة",
+    "source_url": "https://palqura.com/ar/article/69/%D8%B9%D9%8E%D9%83%D9%92%D8%A8%D9%8E%D8%B1%D9%8E%D8%A9"
+  },
+  {
+    "id": "akbara-mayari",
+    "village_id": "akbara",
+    "name_ar": "ميعاري",
+    "aliases": [],
+    "story": "ترد ميعاري ضمن قائمة عائلات عكبرة في موسوعة القرى الفلسطينية.",
+    "source_name": "موسوعة القرى الفلسطينية - عكبرة",
+    "source_url": "https://palqura.com/ar/article/69/%D8%B9%D9%8E%D9%83%D9%92%D8%A8%D9%8E%D8%B1%D9%8E%D8%A9"
+  },
+  {
+    "id": "akbara-hutit",
+    "village_id": "akbara",
+    "name_ar": "حطيط",
+    "aliases": [],
+    "story": "تذكر موسوعة القرى الفلسطينية حطيط ضمن عائلات عكبرة.",
+    "source_name": "موسوعة القرى الفلسطينية - عكبرة",
+    "source_url": "https://palqura.com/ar/article/69/%D8%B9%D9%8E%D9%83%D9%92%D8%A8%D9%8E%D8%B1%D9%8E%D8%A9"
+  },
+  {
+    "id": "qatra-uthman",
+    "village_id": "qatra",
+    "name_ar": "عثمان",
+    "aliases": ["عائلة عثمان"],
+    "story": "يذكر مشروع حق العودة للاجئين عائلة عثمان ضمن عائلات قرية قطرة الفلسطينية.",
+    "source_name": "مشروع حق العودة للاجئين - قطرة",
+    "source_url": "https://refugee.ps/2012/09/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%82%D8%B1%D9%8A%D8%A9-%D9%82%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9/"
+  },
+  {
+    "id": "qatra-abu-sharaf",
+    "village_id": "qatra",
+    "name_ar": "أبو شرف",
+    "aliases": ["ابو شرف"],
+    "story": "ترد أبو شرف ضمن العائلات التي يسردها مشروع حق العودة للاجئين عن قرية قطرة.",
+    "source_name": "مشروع حق العودة للاجئين - قطرة",
+    "source_url": "https://refugee.ps/2012/09/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%82%D8%B1%D9%8A%D8%A9-%D9%82%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9/"
+  },
+  {
+    "id": "qatra-al-sharif",
+    "village_id": "qatra",
+    "name_ar": "الشريف",
+    "aliases": [],
+    "story": "يذكر مشروع حق العودة للاجئين الشريف ضمن عائلات قرية قطرة قبل التهجير.",
+    "source_name": "مشروع حق العودة للاجئين - قطرة",
+    "source_url": "https://refugee.ps/2012/09/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%82%D8%B1%D9%8A%D8%A9-%D9%82%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9/"
+  },
+  {
+    "id": "qatra-al-qatrawi",
+    "village_id": "qatra",
+    "name_ar": "القطراوي",
+    "aliases": ["قطراوي"],
+    "story": "ترد القطراوي ضمن عائلات قرية قطرة في مصدر مشروع حق العودة للاجئين.",
+    "source_name": "مشروع حق العودة للاجئين - قطرة",
+    "source_url": "https://refugee.ps/2012/09/%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-%D9%82%D8%B1%D9%8A%D8%A9-%D9%82%D8%B7%D8%B1%D8%A9-%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9/"
+  }
+]
