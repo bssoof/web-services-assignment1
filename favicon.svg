@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Village marker">
+  <rect width="64" height="64" rx="14" fill="#126154"/>
+  <path d="M18 36 32 22l14 14v16H18V36Z" fill="#f7f4ef"/>
+  <path d="M24 52V37h16v15" fill="#d7c6a5"/>
+  <path d="M16 36h32L32 20 16 36Z" fill="#ffffff"/>
+</svg>
