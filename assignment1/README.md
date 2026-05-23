@@ -21,7 +21,7 @@ This is a small React web application that helps users explore 30 selected displ
 ### 1. MediaWiki Action API / Wikipedia
 
 - Service provider: Wikimedia Foundation
-- Root URL: [<https://ar.wikipedia.org>](https://www.mediawiki.org/wiki/API)
+- Root URL: https://www.mediawiki.org/wiki/API
 - Endpoint path: `/w/api.php`
 - HTTP method: `GET`
 - Main response format: JSON
